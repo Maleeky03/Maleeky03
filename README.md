@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maleeky03
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... PHP And Python
+- 🌱 I’m currently learning ... HTML, CSS, JavaScript and python
 - 💞️ I’m looking to collaborate on ... Experienced Programmers. 
 - 📫 How to reach me ... ameermansur72@gmail.com
 
